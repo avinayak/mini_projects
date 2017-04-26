@@ -1,2 +1,2 @@
 # shitty_projects
-A Collections of shitty mini projects
+A collections of shitty mini projects
