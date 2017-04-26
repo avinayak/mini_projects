@@ -1,4 +1,4 @@
-# shitty_projects
+# shitty_projects :poop:
 A collections of shitty mini projects
 
 ## img2xls.py
