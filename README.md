@@ -17,13 +17,12 @@ Done!
 ## i_have_a_better_idea_generator
 I thought it'll generate cool memes like these
 
-**WARNING**: Minor pixelation and loss of data
 [![N|Solid](https://github.com/avinayak/shitty_projects/raw/master/screenshots/ihabi1.jpg)](https://github.com/avinayak/shitty_projects/raw/master/screenshots/ihabi1.jpg)
 [![N|Solid](https://github.com/avinayak/shitty_projects/raw/master/screenshots/ihabi2.png)](https://github.com/avinayak/shitty_projects/raw/master/screenshots/ihabi2.png)
 [![N|Solid](https://github.com/avinayak/shitty_projects/raw/master/screenshots/ihabi3.png)](https://github.com/avinayak/shitty_projects/raw/master/screenshots/ihabi3.png)
 [![N|Solid](https://github.com/avinayak/shitty_projects/raw/master/screenshots/ihabi4.png)](https://github.com/avinayak/shitty_projects/raw/master/screenshots/ihabi4.png)
 
-but it only dropped these :/
+but it only dropped these :sad:
 
 ```sh
 $ ./i_have_a_better_idea_generator.py
