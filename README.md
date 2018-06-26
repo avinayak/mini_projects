@@ -1,5 +1,5 @@
-# shitty_projects :poop:
-A collections of shitty mini projects
+# mini_projects
+A collections of mini projects that are too small for their own repos
 
 ## img2xls.py
 Convert your images to xls files! 
